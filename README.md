@@ -49,6 +49,3 @@ git clone https://github.com/yourusername/ola-ride-booking-analysis.git
 -- Run the SQL queries provided in the /sql_queries folder on the dataset to generate various insights.
 - Power BI Dashboard:
 -- Open the Power BI file to view the visualizations for booking trends, customer behavior, and more.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
