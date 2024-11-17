@@ -30,18 +30,19 @@ This diverse dataset enabled in-depth analysis of Ola’s business operations.
 ## Power BI Findings
 Key findings visualized in Power BI include:
 
--Booking Trends: Showed peak booking hours and common pickup locations.
--Customer Segmentation: Highlighted frequent and high-spending customers.
--Cancellation Trends: Illustrated high-cancellation hours and reasons.
--Payment Contribution: Displayed the popularity and revenue contribution of each payment method.
+- Booking Trends: Showed peak booking hours and common pickup locations.
+- Customer Segmentation: Highlighted frequent and high-spending customers.
+- Cancellation Trends: Illustrated high-cancellation hours and reasons.
+- Payment Contribution: Displayed the popularity and revenue contribution of each payment method.
 
 ## Conclusion
 This project uncovered valuable insights into Ola’s operations and customer behavior. Key findings include:
 
-Peak booking times and high-demand locations, which guide resource allocation.
-Customer segmentation, revealing revenue concentration from frequent and high-spending users.
-Vehicle and cancellation insights that help Ola address common service gaps.
-How to Use
+- Peak booking times and high-demand locations, which guide resource allocation.
+- Customer segmentation, revealing revenue concentration from frequent and high-spending users.
+- Vehicle and cancellation insights that help Ola address common service gaps.
+
+## How to Use
 Clone the Repository:
 
 bash
