@@ -43,19 +43,12 @@ This project uncovered valuable insights into Ola’s operations and customer be
 - Vehicle and cancellation insights that help Ola address common service gaps.
 
 ## How to Use
-Clone the Repository:
-
-bash
-Copy code
+- Clone the Repository:
 git clone https://github.com/yourusername/ola-ride-booking-analysis.git
-SQL Analysis:
+- SQL Analysis:
+-- Run the SQL queries provided in the /sql_queries folder on the dataset to generate various insights.
+- Power BI Dashboard:
+-- Open the Power BI file to view the visualizations for booking trends, customer behavior, and more.
 
-Run the SQL queries provided in the /sql_queries folder on the dataset to generate various insights.
-Power BI Dashboard:
-
-Open the Power BI file to view the visualizations for booking trends, customer behavior, and more.
-Data Source
-Link to the Dataset
-
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
