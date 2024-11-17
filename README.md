@@ -1,8 +1,8 @@
-## Ola Ride-Booking Data Analysis
-# Overview
+# Ola Ride-Booking Data Analysis
+## Overview
 This project analyzes Ola’s ride-booking data for the month of July. Using SQL queries and Power BI visualizations, we extracted insights into booking trends, customer behavior, vehicle performance, payment methods, and cancellation patterns. These findings aim to inform business decisions, enhance customer satisfaction, and optimize operational efficiency.
 
-# Dataset
+## Dataset
 The dataset consists of 19 columns and 103,024 rows, covering diverse ride-booking details. Key attributes include:
 
 Pickup_Location, Booking_Time, Ride_Distance, and Booking_Value: Core ride details.
@@ -13,7 +13,7 @@ Payment_Method: Specifies the payment mode (e.g., Cash, UPI).
 Canceled_Rides_by_Driver and Canceled_Rides_by_Customer: Cancellation reasons by drivers and customers.
 This diverse dataset enabled in-depth analysis of Ola’s business operations.
 
-# Objectives
+## Objectives
 Booking Trends: Identify peak demand periods, popular pickup locations, frequent booking hours, and high-completion areas.
 Customer Behavior: Analyze customer segments, spending patterns, average ride distances, and high-value customers.
 Vehicle & Driver Insights: Examine vehicle type usage, driver ratings, and frequent cancellations.
@@ -22,11 +22,11 @@ Payment Analysis: Explore the revenue contribution of each payment method and an
 Cancellation Insights: Discover common cancellation reasons and trends by time and cancellation impact on revenue.
 Advanced Metrics: Investigate correlations between driver and customer ratings for quality assessment.
 
-# Project Structure
+## Project Structure
 SQL Queries: SQL scripts to create views for various analyses on booking trends, customer behavior, vehicle insights, and cancellation patterns.
 Power BI Dashboard: Visualizations created in Power BI to supplement SQL findings, showcasing booking frequency, top locations, customer segments, and cancellation patterns.
 
-# Power BI Findings
+## Power BI Findings
 Key findings visualized in Power BI include:
 
 Booking Trends: Showed peak booking hours and common pickup locations.
@@ -34,7 +34,7 @@ Customer Segmentation: Highlighted frequent and high-spending customers.
 Cancellation Trends: Illustrated high-cancellation hours and reasons.
 Payment Contribution: Displayed the popularity and revenue contribution of each payment method.
 
-# Conclusion
+## Conclusion
 This project uncovered valuable insights into Ola’s operations and customer behavior. Key findings include:
 
 Peak booking times and high-demand locations, which guide resource allocation.
