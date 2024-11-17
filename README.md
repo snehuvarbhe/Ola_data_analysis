@@ -5,7 +5,7 @@ This project analyzes Ola’s ride-booking data for the month of July. Using SQL
 ## Dataset
 The dataset consists of 19 columns and 103,024 rows, covering diverse ride-booking details. Key attributes include:
 
-Pickup_Location, Booking_Time, Ride_Distance, and Booking_Value: Core ride details.
+-- Pickup_Location, Booking_Time, Ride_Distance, and Booking_Value: Core ride details.
 Booking_Status: Indicates if a booking was successful or canceled.
 Customer_ID and Driver_ID: Unique identifiers for customer and driver analysis.
 Driver_Ratings and Customer_Ratings: Service quality indicators.
